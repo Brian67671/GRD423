@@ -1,1 +1,3 @@
-# GRD423
+Brian liburdi
+learning enviroment for class
+assignments
